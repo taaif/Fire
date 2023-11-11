@@ -1,0 +1,15 @@
+#demo {
+   background-color: rgb(0, 170, 255) ;
+   border: 5px;
+   border-radius: 5px;
+}
+#cards {
+    display: none;
+}
+.list-group-item{
+    background: transparent;
+}
+img{
+    
+    max-width: 100%;
+}
